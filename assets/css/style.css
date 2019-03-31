@@ -89,7 +89,7 @@ p{
 	/*background-color: rgba(0,0,0,0.5);*/
 	background-color: black;
 	color: white;
-	padding: 1%;
+	/*padding: 1%;*/
 
 }
 
@@ -122,4 +122,7 @@ p{
 
 hr{
 	color: black;
+}
+.jumbotron{
+	margin: 10%;
 }
